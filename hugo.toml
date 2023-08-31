@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'BimblyBytes'
+
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "Patrick Gould"
+user = "blog"
+hostname = "gohugo.io"
+footerHtml = 'Built with <a href="https://gohugo.io" class="footerLink">Hugo</a>'
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/Draekus"
+icon = "fa-brands fa-github" 
