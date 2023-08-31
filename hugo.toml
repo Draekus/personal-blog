@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://bimblybyte.com'
 languageCode = 'en-us'
 title = 'BimblyBytes'
 
@@ -17,7 +17,7 @@ theme = "nightfall"
 [params]
 author = "Patrick Gould"
 user = "blog"
-hostname = "gohugo.io"
+hostname = "bimblybyte.com"
 footerHtml = 'Built with <a href="https://gohugo.io" class="footerLink">Hugo</a>'
 
 [[params.social]]
