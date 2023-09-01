@@ -1,6 +1,6 @@
 baseURL = "https://bimblybyte.com"
 theme = "risotto"
-title = "BimblyByte"
+title = "developer@bimblybyte.com"
 author = "Patrick Gould"
 copyright = "© [Patrick Gould](https://bimblybyte.com) 2023"
 languageCode = "en"
