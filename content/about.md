@@ -6,13 +6,8 @@ aliases = ["about-me", "about-author", "contact"]
 author = "Patrick Gould"
 +++
 
-BIMBLYBYTE(1)
+Hey I'm pat and I'm a student currently getting my bachelors in computer science.
+  
+This a dev blog I've created in order to share my experience learning to program. As I explore new technical topics and technologies I like to share what I learn here. Hopefully you find it interesting too.
 
-NAME  
-&nbsp;&nbsp;bimblybyte - prints latest blog posts to the screen
-
-SYNOPSIS  
-&nbsp;&nbsp;bimblybyte
-
-DESCRIPTION  
-&nbsp;&nbsp;Bimblybyte is a dev blog that I've created in order to share my experience learning to program and explore new technologies.
+Happy hacking.
