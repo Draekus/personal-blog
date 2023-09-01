@@ -6,8 +6,9 @@ aliases = ["about-me", "about-author", "contact"]
 author = "Patrick Gould"
 +++
 
-Hey I'm pat and I'm a student currently getting my bachelors in computer science.
-  
-This a dev blog I've created in order to share my experience learning to program. As I explore new technical topics and technologies I like to share what I learn here. Hopefully you find it interesting too.
+&nbsp;&nbsp;   
+Hey I'm Pat and I'm currently a student studying computer science and this is my dev blog.
 
-Happy hacking.
+For me coding isn't just a skill; it's a superpower. It's the ability to transform ideas into reality, to create, to solve problems, and to shape the future. I'm a firm believer that everyone should have access to this empowering and rewarding experience so as I learn about new technologies I post tutorials and write ups here to share that knowledge with others. 
+
+Keep learning. Keep Hacking.
