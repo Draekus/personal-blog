@@ -15,4 +15,4 @@ As I looked in the mirror, pondering who I used to be, I came to the unsettling 
 Today, at the age of 29, I hold an Associates Degree in Computer Science, am on the brink of starting as a Junior at my State University, and work as a Mathematics Tutor. Programming provided me with a second chance to pursue dreams I had long abandoned. I am writing this blog not only to share the knowledge and experience I've gained as a Computer Science student but also to share my story in the hope that it might inspire someone else. I am passionate about sharing knowledge and uplifting others, and this blog serves as my outlet for expressing that passion.
 
 
-Made with 💟 by [Patrick Gould](https://lente.dev/enhttps://github.com/Draekus).
+Made with 💟 by [Patrick Gould](https://github.com/Draekus).
